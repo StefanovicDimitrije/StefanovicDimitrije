@@ -1,9 +1,7 @@
-- 🖖 Hi, I’m @StefanovicDimitrije
-  - Also better known as Dimitrije Stefanović
-- 🏫 I’m currently still in college
-- 📓 So most of the repositories here are what I'm learning
-- 📫 Send me an email any time
-  - [dimitrijex@gmai.com](mailto:dimitrijex@gmail.com?subject=[GitHub]%20To%20Dimitrije)
+- Hello!
+- I am a college student
+- Feel free to send me an email any time
+  - [dimitrijex@gmail.com](mailto:dimitrijex@gmail.com?subject=[GitHub]%20To%20Dimitrije)
   - [dimitrije.stefanovic@student.um.si](mailto:dimitrije.stefanovic@student.um.si?subject=[GitHub]%20To%20Dimitrije)
 
 <!---
